@@ -25,8 +25,9 @@ A simple web-based expense tracker that helps you manage and monitor your daily 
 
 ## Live Demo
 
-[Live Expense Tracker](#) 
+[Live Expense Tracker](https://parthvaid02.github.io/expense-tracker/) 
 
 ## Screenshots
 
-![Expense Tracker Screenshot](#)
+![Expense Tracker Screenshot](https://github.com/user-attachments/assets/051999bd-718a-4f11-b215-dfbac1c250de)
+
